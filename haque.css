@@ -1,0 +1,70 @@
+header{ width:70%;
+        height:70vh;
+        position:absolute;}
+        
+        
+nav{ width:200%;
+     height:50px;
+     display:flex;
+     justify-content: space-between;
+     align-items:right;
+     padding: 0px 10px;}
+     
+     
+ .logo{ font-size:150%;
+        letter-spacing:5px;
+        color:red;}
+        
+
+.menu a{ padding: 5px 10px;
+         font-size: 10px;}
+         
+
+.h-text{ width:300px;
+         position:absolute;
+         top:20%;
+         left:10%;}
+         
+.h-text h1{ font-size:30px;
+              color:green;}
+              
+              
+.h-text p{ font-size:20px;
+           marging-bottom:30px;} 
+           
+           
+.h-text a{ background:gold;
+           color:white;
+           font-size:20px;
+           border-radius:10px;
+           box-shadow:2px 0px 0px;}
+           
+           
+ .box{width:50%;
+      height:60%;
+      position:absolite;
+      top:0;
+      right:0;
+      background:red;}
+      
+      
+ #nice{width:250px;
+       height:110%;
+       position:absolute;
+       right:2%:;
+       top:0%;
+       left:100%;}
+        
+           
+.box{width:100%;
+     height:90%;
+     position:absolute;
+     top:0;
+     right:0;
+     left:150%;        
+     background:yellow;
+     z-index:-2;}
+     
+
+          
+           
